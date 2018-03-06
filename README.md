@@ -1,1 +1,3 @@
 # NYFaceRecognitionKitSpec
+
+Spec for NYFaceRecognition
